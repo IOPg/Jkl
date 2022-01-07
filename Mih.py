@@ -1,9 +1,3 @@
-import requests
-import os
-import time
-import threading
-from threading import Thread
-os.system("clear")
 print("__________________________________100api____________")
 print("")
 print("_____________________PB: ฟิว ฯฯ___")
